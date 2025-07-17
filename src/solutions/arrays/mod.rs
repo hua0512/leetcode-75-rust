@@ -1,5 +1,7 @@
 pub mod can_place_flowers;
+pub mod compress;
 pub mod gcd_of_strings;
+pub mod increasing_triplet;
 pub mod kids_with_candies;
 pub mod merge_alternately;
 pub mod product_except_self;
