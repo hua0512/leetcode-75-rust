@@ -1,5 +1,6 @@
-pub mod arrays;
-pub mod double_pointers;
+mod arrays;
+mod double_pointers;
 mod hashmap;
-pub mod prefix_sum;
-pub mod sliding_window;
+mod prefix_sum;
+mod sliding_window;
+mod stack;
