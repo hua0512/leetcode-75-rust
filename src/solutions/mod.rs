@@ -5,3 +5,4 @@ mod prefix_sum;
 mod queue;
 mod sliding_window;
 mod stack;
+mod linked_list;
