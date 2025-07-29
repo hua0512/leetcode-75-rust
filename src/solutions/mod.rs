@@ -1,8 +1,9 @@
 mod arrays;
+mod dfs;
 mod double_pointers;
 mod hashmap;
+mod linkedlist;
 mod prefix_sum;
 mod queue;
 mod sliding_window;
 mod stack;
-mod linked_list;
